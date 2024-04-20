@@ -1,3 +1,7 @@
+import productos.Laptop;
+import productos.Producto;
+import productos.Telefono;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -23,6 +27,7 @@ public class Main {
                 sn.nextLine();
                 if(opcion == 0){
                     System.out.println("\nHasta la proxima!!\n");
+                    break;
                 }
                 switch (opcion){
                     case 1:

@@ -1,3 +1,5 @@
+package productos;
+
 public class Telefono extends Producto implements Priceable{
 
     private String companiaTelefonica;

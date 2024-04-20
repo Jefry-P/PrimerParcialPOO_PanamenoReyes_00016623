@@ -1,3 +1,5 @@
+package productos;
+
 public class Laptop extends Producto implements Priceable{
 
     private String procesador;

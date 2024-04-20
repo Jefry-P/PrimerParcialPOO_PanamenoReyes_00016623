@@ -1,3 +1,5 @@
+package productos;
+
 public abstract class Producto {
     private static int id = 1;
     private int identificador;
